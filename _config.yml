@@ -1,0 +1,28 @@
+name: První stránka
+favicon: null
+layout_spectrum: 0.5471093060914427
+typography_spectrum: 0.3452605428174138
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9243914580438286
+  lightness: 0.6202404196374118
+  saturation: 0.16812725877389312
+  rhythmicContrast: 0.3983636659104377
+purpose: []
